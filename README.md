@@ -1,1 +1,1 @@
-# khanAcedamy
+# KhanAcademy
